@@ -1,2 +1,2 @@
 # Portfolio
-Pablo Paciello - iOS Developer Portfolio | Flutter
+iOS Developer Portfolio | Flutter
